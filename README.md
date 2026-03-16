@@ -1,1 +1,2 @@
-# task-queue-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 task_queue.py\n```\n
+# task-queue-py
+Zero-dependency Python implementation.
